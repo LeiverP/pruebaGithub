@@ -1,2 +1,0 @@
-# pruebaGithub
-repositorio de prueba
